@@ -186,7 +186,7 @@ Enchanter	Enchanters	0	0	0	0	0	0	750	805	1210	2	0	30	9	17	12	14	14	32	0	5	12	"No
 Group spell casters."	SHOOTING_ARMY | const_no_melee_penalty
 Sharpshooter	Sharpshooters	0	0	0	0	0	0	400	415	585	4	0	15	9	12	10	8	10	32	0	5	12	No Range or Barrier penalties.	SHOOTING_ARMY
 Halfling	Halflings	0	0	0	0	0	0	40	60	75	15	0	4	5	4	2	1	3	24	0	20	50	Positive luck.	SHOOTING_ARMY
-Peasant	Peasants	0	0	0	0	0	0	10	15	15	25	0	1	3	1	1	1	1	0	0	20	50		
+Peasant	Peasants	0	0	0	0	0	0	10	15	15	25	0	1	3	1	1	1	1	0	0	40	70		
 Boar	Boars	0	0	0	0	0	0	150	145	145	8	0	15	6	6	5	2	3	0	0	16	30		
 Mummy	Mummies	0	0	0	0	0	0	300	270	270	7	0	30	5	7	7	3	5	0	0	12	25	Curse.	
 Nomad	Nomads	0	0	0	0	0	0	200	285	345	7	0	30	7	9	8	2	6	0	0	12	25	Sandwalkers.	
@@ -197,6 +197,6 @@ Troll	Trolls	0	0	0	0	0	0	500	1024	1024	3	0	40	7	14	7	10	15	0	0	8	12	Regenerating
 																								
 Catapult	Catapults	0	0	0	0	0	0	1	10	500	0	0	1000	0	10	10	0	0	24	0	0	0	Attacks siege walls.	DOUBLE_WIDE | SHOOTING_ARMY | CATAPULT | SIEGE_WEAPON
 Ballista	Ballistas	0	0	0	0	0	0	2500	650	600	0	0	250	0	10	10	2	3	24	0	0	0		DOUBLE_WIDE | SHOOTING_ARMY | SIEGE_WEAPON
-First Aid Tent	First Aid Tents	0	0	0	0	0	0	750	10	300	0	0	75	0	0	0	0	0	0	0	0	0	Heals troops.	DOUBLE_WIDE | SIEGE_WEAPON
+First Aid Tent	First Aid Tents	0	0	0	0	0	0	750	10	300	0	0	100	0	0	0	0	0	0	0	0	0	Heals troops.	DOUBLE_WIDE | SIEGE_WEAPON
 Ammo Cart	Ammo Carts	0	0	0	0	0	0	1000	5	400	0	0	100	0	0	5	0	0	0	0	0	0	Unlimited ammunition.	SIEGE_WEAPON
 Arrow Tower	Arrow Towers	0	0	0	0	0	0	1000	5	400	0	0	100	0	10	5	2	4	99	0	0	0	Unlimited ammunition.	SIEGE_WEAPON
