@@ -94,7 +94,7 @@ Conflux
 0	0	0	0	0	0	1000	Pixie Horde
 0	0	0	0	0	0	1000	Sprite Horde
 0	0	0	0	0	0	0	never used
-10	0	10	0	0	0	5000	Magic University						
+15	5	15	5	5	5	10000	Magic University						
 0	0	0	0	0	0	0	unused						
 0	0	0	0	0	0	0	unused						
 0	0	0	0	0	0	0	unused						
