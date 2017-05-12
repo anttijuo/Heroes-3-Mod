@@ -242,11 +242,11 @@ Fortress
 10	5	10	5	0	0	2500	 Gorgon
 15	0	0	0	0	0	3500	 Wyvern 
 10	0	10	10	0	0	10000	 Hydra 
-10	0	0	0	0	0	1000	 Gnoll Marauder 
+5	0	0	0	0	0	1000	 Gnoll Marauder 
 5	0	0	0	0	0	1000	 Lizard Warrior
 0	2	0	2	0	0	1000	 Dragon Fly
 5	0	5	0	0	0	2000	 Greater Basilisk 
-5	0	5	0	0	0	2000	 Mighty Gorgon
+0	0	5	0	0	0	2000	 Mighty Gorgon
 10	10	0	0	0	0	3000	 Wyvern Monarch 
 10	0	10	20	0	0	15000	  Chaos Hydra 
 							

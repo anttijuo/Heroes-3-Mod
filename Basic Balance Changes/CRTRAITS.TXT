@@ -133,20 +133,20 @@ Ancient Behemoth	Ancient Behemoths	0	0	0	0	1	0	3000	5397	6168	1	0	300	9	19	19	30
 																								
 																								
 																								
-Gnoll	Gnolls	0	0	0	0	0	0	50	70	56	12	6	6	4	3	5	2	3	0	0	20	50		0
-Gnoll Marauder	Gnoll Marauders	0	0	0	0	0	0	70	90	90	12	6	6	5	4	6	2	3	0	0	20	30		0
+Gnoll	Gnolls	0	0	0	0	0	0	55	70	56	14	6	6	4	3	5	2	3	0	0	20	50		0
+Gnoll Marauder	Gnoll Marauders	0	0	0	0	0	0	70	90	90	14	6	6	5	4	6	2	3	0	0	20	30		0
 Lizardman	Lizardmen	0	0	0	0	0	0	110	115	126	9	0	14	4	5	6	2	3	12	0	16	30		SHOOTING_ARMY
-Lizard Warrior	Lizard Warriors	0	0	0	0	0	0	140	130	156	9	0	15	5	6	8	2	5	24	0	16	25		SHOOTING_ARMY
+Lizard Warrior	Lizard Warriors	0	0	0	0	0	0	140	130	156	9	0	15	5	6	7	2	5	24	0	16	25		SHOOTING_ARMY
 Gorgon	Gorgons	0	0	0	0	0	0	525	890	890	3	0	70	5	10	14	12	16	0	0	12	25		DOUBLE_WIDE
-Mighty Gorgon	Mighty Gorgons	0	0	0	0	0	0	600	1028	1028	3	0	70	6	11	16	12	16	0	0	12	20	Death stare.	DOUBLE_WIDE
-Serpent Fly	Serpent Flies	0	0	0	0	0	0	220	215	268	8	0	20	9	7	9	2	5	0	0	10	20	Dispels beneficial spells.	FLYING_ARMY
-Dragon Fly	Dragon Flies	0	0	0	0	0	0	240	250	312	8	0	20	13	8	10	2	5	0	0	10	16	Dispels beneficial spells.  Weakens enemies.	FLYING_ARMY
+Mighty Gorgon	Mighty Gorgons	0	0	0	0	0	0	650	1028	1028	3	0	70	6	11	16	12	16	0	0	12	20	Death stare.	DOUBLE_WIDE
+Serpent Fly	Serpent Flies	0	0	0	0	0	0	210	215	268	8	0	20	9	7	9	2	5	0	0	10	20	Dispels beneficial spells.	FLYING_ARMY
+Dragon Fly	Dragon Flies	0	0	0	0	0	0	230	250	312	8	0	20	13	8	10	2	5	0	0	10	16	Dispels beneficial spells.  Weakens enemies.	FLYING_ARMY
 Basilisk	Basilisks	0	0	0	0	0	0	325	506	552	4	0	35	5	11	11	6	10	0	0	8	16	Petrifying attack.	DOUBLE_WIDE
 Greater Basilisk	Greater Basilisks	0	0	0	0	0	0	400	561	714	4	0	40	7	12	12	6	10	0	0	8	12	Petrifying attack.	DOUBLE_WIDE
-Wyvern	Wyverns	0	0	0	0	0	0	800	1050	1350	2	0	70	7	14	14	14	18	0	0	5	12		DOUBLE_WIDE | FLYING_ARMY
-Wyvern Monarch	Wyvern Monarchs	0	0	0	0	0	0	1100	1181	1518	2	0	70	11	14	14	18	22	0	0	5	10	Poisonous.	DOUBLE_WIDE | FLYING_ARMY
+Wyvern	Wyverns	0	0	0	0	0	0	800	1050	1350	2	0	70	7	14	14	15	19	0	0	5	12		DOUBLE_WIDE | FLYING_ARMY
+Wyvern Monarch	Wyvern Monarchs	0	0	0	0	0	0	1000	1181	1518	2	0	75	11	15	15	18	22	0	0	5	10	Poisonous.	DOUBLE_WIDE | FLYING_ARMY
 Hydra	Hydras	0	0	0	0	0	0	2200	4120	4120	1	0	175	5	16	18	25	45	0	0	4	10	Attacks all adjacent enemies.  Enemies cannot retaliate.	DOUBLE_WIDE | KING_1
-Chaos Hydra	Chaos Hydras	0	0	0	1	0	0	3500	5272	5931	1	0	250	7	18	20	25	45	0	0	3	8	Attacks all adjacent enemies.  Enemies cannot retaliate.	DOUBLE_WIDE | KING_1
+Chaos Hydra	Chaos Hydras	0	0	0	1	0	0	3500	5272	5931	1	0	260	7	19	21	25	45	0	0	3	8	Attacks all adjacent enemies.  Enemies cannot retaliate.	DOUBLE_WIDE | KING_1
 																								
 																								
 																								
