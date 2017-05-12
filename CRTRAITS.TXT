@@ -74,25 +74,25 @@ Arch Devil	Arch Devils	0	2	0	0	0	0	4500	5243	7115	1	0	210	17	26	28	32	42	0	0	3	8
 																								
 																								
 																								
-Skeleton	Skeletons	0	0	0	0	0	0	60	75	60	12	6	6	4	5	4	1	3	0	0	20	50	Undead.	IS_UNDEAD
-Skeleton Warrior	Skeleton Warriors	0	0	0	0	0	0	70	85	85	12	6	6	5	6	6	1	3	0	0	20	30	Undead.	IS_UNDEAD
-Walking Dead	Walking Dead	0	0	0	0	0	0	100	140	98	8	0	15	3	5	5	2	3	0	0	16	30	Undead.	IS_UNDEAD
-Zombie	Zombies	0	0	0	0	0	0	125	160	128	8	0	20	4	5	5	2	3	0	0	16	25	"Undead.
+Skeleton	Skeletons	0	0	0	0	0	0	60	75	60	13	6	6	4	5	4	1	3	0	0	20	50	Undead.	IS_UNDEAD
+Skeleton Warrior	Skeleton Warriors	0	0	0	0	0	0	70	85	85	13	6	6	5	6	6	1	3	0	0	20	30	Undead.	IS_UNDEAD
+Walking Dead	Walking Dead	0	0	0	0	0	0	100	140	98	9	0	15	3	6	5	2	3	0	0	16	30	Undead.	IS_UNDEAD
+Zombie	Zombies	0	0	0	0	0	0	125	160	128	9	0	20	4	5	6	2	3	0	0	16	25	"Undead.
 Disease."	IS_UNDEAD
-Wight	Wights	0	0	0	0	0	0	200	231	252	7	0	18	5	7	7	3	5	0	0	12	25	Undead.  Regenerating.	FLYING_ARMY | IS_UNDEAD
-Wraith	Wraiths	0	0	0	0	0	0	230	252	315	7	0	18	7	7	7	3	5	0	0	12	20	"Undead.  Regenerating.
+Wight	Wights	0	0	0	0	0	0	180	231	252	7	0	18	6	8	8	3	5	0	0	12	25	Undead.  Regenerating.	FLYING_ARMY | IS_UNDEAD
+Wraith	Wraiths	0	0	0	0	0	0	210	252	315	7	0	18	8	9	9	3	5	0	0	12	20	"Undead.  Regenerating.
 Drains enemy mana."	FLYING_ARMY | IS_UNDEAD
-Vampire	Vampires	0	0	0	0	0	0	360	518	555	4	0	30	6	10	9	5	8	0	0	10	20	"Undead.
+Vampire	Vampires	0	0	0	0	0	0	360	518	555	4	0	30	6	9	9	5	8	0	0	10	20	"Undead.
 No enemy retaliation."	FLYING_ARMY | IS_UNDEAD
-Vampire Lord	Vampire Lords	0	0	0	0	0	0	500	652	783	4	0	40	9	10	10	5	8	0	0	10	16	"Undead.  Drains life.
+Vampire Lord	Vampire Lords	0	0	0	0	0	0	500	652	783	4	0	40	9	9	10	5	8	0	0	10	16	"Undead.  Drains life.
 No enemy retaliation."	FLYING_ARMY | IS_UNDEAD
 Lich	Liches	0	0	0	0	0	0	550	742	848	3	0	30	6	13	10	11	13	12	0	8	16	Undead.  Death cloud attack.	SHOOTING_ARMY | IS_UNDEAD
-Power Lich	Power Liches	0	0	0	0	0	0	600	889	1079	3	0	40	7	13	10	11	15	24	0	8	12	Undead.  Death cloud attack.	SHOOTING_ARMY | IS_UNDEAD
-Black Knight	Black Knights	0	0	0	0	0	0	1200	1753	2087	2	0	120	7	16	16	15	30	0	0	5	12	Undead.  Curses enemies.	DOUBLE_WIDE | IS_UNDEAD
-Dread Knight	Dread Knights	0	0	0	0	0	0	1500	2029	2382	2	0	120	9	18	18	15	30	0	0	5	10	"Undead.  Curses enemies.  
+Power Lich	Power Liches	0	0	0	0	0	0	600	889	1079	3	0	40	7	13	10	11	14	24	0	8	12	Undead.  Death cloud attack.	SHOOTING_ARMY | IS_UNDEAD
+Black Knight	Black Knights	0	0	0	0	0	0	1200	1753	2087	2	0	120	7	16	16	15	29	0	0	5	12	Undead.  Curses enemies.	DOUBLE_WIDE | IS_UNDEAD
+Dread Knight	Dread Knights	0	0	0	0	0	0	1500	2029	2382	2	0	120	9	17	17	15	29	0	0	5	10	"Undead.  Curses enemies.  
 Death Blow attack."	DOUBLE_WIDE | IS_UNDEAD
-Bone Dragon	Bone Dragons	0	0	0	0	0	0	1800	2420	3388	1	0	150	9	17	15	25	50	0	0	4	10	Undead.  -1 to enemy morale.	DOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1
-Ghost Dragon	Ghost Dragons	0	1	0	0	0	0	3000	3228	4696	1	0	200	14	19	17	25	50	0	0	3	8	Undead.  -1 to enemy morale.  Attack ages enemies.	DOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1
+Bone Dragon	Bone Dragons	0	0	0	0	0	0	1800	2420	3388	1	0	150	9	18	16	25	50	0	0	4	10	Undead.  -1 to enemy morale.	DOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1
+Ghost Dragon	Ghost Dragons	0	1	0	0	0	0	3000	3228	4696	1	0	210	14	20	18	25	50	0	0	3	8	Undead.  -1 to enemy morale.  Attack ages enemies.	DOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1
 																								
 																								
 																								

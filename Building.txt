@@ -50,7 +50,7 @@ Necropolis
 0	0	0	0	0	0	1000	 Skeleton Horde
 0	0	0	0	0	0	1000	 Skeleton Warrior Horde
 0	0	0	0	0	0	0	 
-0	0	0	0	0	0	1000	 Necromancy Amplifier
+0	0	0	0	0	0	2000	 Necromancy Amplifier
 0	0	0	0	0	0	1000	 Skeleton Transformer
 0	0	0	0	0	0	0	 
 0	0	0	0	0	0	0	
@@ -191,7 +191,7 @@ Necropolis
 0	0	5	0	0	0	1000	 Walking Dead
 5	0	5	0	0	0	1500	 Wight
 5	0	5	0	0	0	2000	 Vampire
-0	0	10	10	0	0	2000	 Lich
+0	0	10	10	0	0	2500	 Lich
 10	0	10	0	0	0	6000	 Black Knight
 5	5	5	5	5	5	10000	 Bone Dragon
 5	0	5	0	0	0	1000	 Skeleton Warrior
