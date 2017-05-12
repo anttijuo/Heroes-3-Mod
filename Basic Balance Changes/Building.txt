@@ -206,9 +206,9 @@ Dungeon
 10	0	0	0	0	0	400	 Troglodyte
 0	0	0	0	0	0	1000	 Harpy
 1	1	1	1	1	1	1000	 Beholder
-5	0	10	0	0	0	2000	 Medusa
+5	0	5	0	0	0	2000	 Medusa
 0	0	10	0	0	10	4000	 Minotaur
-5	5	5	5	0	0	5000	 Manticore
+5	5	5	5	0	0	4500	 Manticore
 15	0	15	20	0	0	15000	 Red Dragon
 5	0	0	0	0	0	1000	 Infernal Troglodyte
 0	0	0	2	2	0	1000	 Harpy Hag
