@@ -222,15 +222,15 @@ Stronghold
 5	0	5	0	0	0	200	 Goblin 
 10	0	5	0	0	0	1000	 Wolf Rider
 5	0	5	0	0	0	1000	 Orc
-20	0	0	0	0	0	2000	 Ogre
+15	0	0	0	0	0	2000	 Ogre
 0	0	10	0	0	0	2500	 Roc
-0	0	20	0	20	0	3500	 Cyclops
-10	0	10	0	10	0	10000	 Behemoth
+0	0	15	0	10	0	3500	 Cyclops
+10	0	15	0	10	0	10000	 Behemoth
 5	0	5	0	0	0	1000	 Hobgoblin
 5	0	5	0	0	0	1000	 Wolf Raider
 2	0	2	0	0	0	1000	 Orc Chieftain
 5	0	5	0	0	5	2000	 Ogre Mage
-5	0	5	0	0	0	2000	 Thunderbird
+5	0	5	0	0	5	2000	 Thunderbird
 5	0	5	0	0	0	3000	 Cyclops King
 10	0	10	0	20	0	15000	 Ancient Behemoth
 							
