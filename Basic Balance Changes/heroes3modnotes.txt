@@ -167,7 +167,7 @@ Decreased gold value of Necklace of Ocean Guidance from 10000 to 3000
 Changed type of Garniture of Interference from Major to Minor 
 Changed type of Sandal of the Saints from Minor to Major 
 
-SPELLS COST & EFFECTS 
+SPELLS COST & EFFECTS (Mass spell costs doubled)
 Changed most spells' mana costs. 
 Mass versions of Bless, Curse, Bloodlust, Weakness, Shield, 
 Stone Skin, Haste, Slow, Prayer and Counterstrike now cost more. 
@@ -189,7 +189,8 @@ Raised power of Hypnotize from 25 to 50
 Raised Hypnotize Advanced bonus from 20 to 50, expert from 50 to 90 
 Raised power of Firewall from 10 to 15. 
 Town Portal is now a Earth & Fire spell, instead of just Earth 
-Raised chance of success of Magic Mirror by 20% for all expertise levels. 
+Raised chance of success of Magic Mirror by 20% for all non-expert expertise levels.
+Raised chance of success of Magic Mirror expert bonus to 100%. 
 
 HEROES 
 Druids now start with 0/1/2/2 instead of 0/2/1/2 
