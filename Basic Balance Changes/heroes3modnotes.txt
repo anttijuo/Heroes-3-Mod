@@ -156,7 +156,7 @@ Changed Naga Bank reward from Sulfur to Gems
 Increased adventure map stack size of Peasant from 20-50 to 40-70 
 
 
-ARTIFACTS 
+ARTIFACTS (R = Relic, J = Major, N = Minor, T = Treasure)
 Changed text of badge of courage to display immunity to mind spells 
 Changed type of badge of courage from Treasure to Major 
 Increased gold value of badge of courage from 1000 to 8000 
