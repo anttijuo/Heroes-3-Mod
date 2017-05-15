@@ -248,6 +248,6 @@ From 25% 50% 100% to 20% 40% 60%
 
 PROBABILITIES 
 Changed a few primary skill probabilities, ignoring Conflux heroes 
-Changed a LOT of secondary skills probabilities, ignoring Conflux heroes (Removed skills: Eagle Eye probability 0)
+Changed a LOT of secondary skills probabilities, ignoring Conflux heroes (Reduce Eagle Eye probability. )
 Re-organized spell appearance in towns, ignoring Conflux. 
 Conflux heroes (and only them) will only be available to Conflux players
