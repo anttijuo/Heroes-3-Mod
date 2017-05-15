@@ -1,0 +1,158 @@
+	1st Creature Stack			2nd Creature Stack			3rd Creature Stack		
+Name	Low	High	Type (reference only)	Low	High	Type (reference only)	Low	High	Type (reference only)
+Orrin	13	17	Pikeman	4	7	LightCrossbowman	3	4	Griffin
+Valeska	5	8	LightCrossbowman	4	7	LightCrossbowman	4	7	LightCrossbowman
+Edric	13	17	Pikeman	3	4	Griffin	3	4	Griffin
+Sylvia	13	17	Pikeman	4	7	LightCrossbowman	3	4	Griffin
+Lord Haart	13	17	Pikeman	4	7	LightCrossbowman	3	4	Griffin
+Sorsha	13	17	Pikeman	4	7	LightCrossbowman	3	4	Griffin
+Christian	13	17	Pikeman	1	1	Ballista	3	4	Griffin
+Tyris	13	17	Pikeman	4	7	LightCrossbowman	3	4	Griffin
+Rion	13	17	Pikeman	1	1	FirstAidTent	3	4	Griffin
+Adela	13	17	Pikeman	4	7	LightCrossbowman	3	4	Griffin
+Cuthbert	13	17	Pikeman	4	7	LightCrossbowman	3	4	Griffin
+Adelaide	13	17	Pikeman	4	7	LightCrossbowman	3	4	Griffin
+Ingham	13	17	Pikeman	4	7	LightCrossbowman	3	4	Griffin
+Sanya	13	17	Pikeman	4	7	LightCrossbowman	3	4	Griffin
+Loynis	13	17	Pikeman	4	7	LightCrossbowman	3	4	Griffin
+Caitlin	13	17	Pikeman	4	7	LightCrossbowman	3	4	Griffin
+Mephala	14	18	Centaur	4	6	Dwarf	3	5	WoodElf
+Ufretin	4	6	Dwarf	4	6	Dwarf	4	6	Dwarf
+Jenova	14	18	Centaur	4	6	Dwarf	3	5	WoodElf
+Ryland	14	18	Centaur	4	6	Dwarf	3	5	WoodElf
+Thorgrim	14	18	Centaur	4	6	Dwarf	3	5	WoodElf
+Ivor	14	18	Centaur	3	6	WoodElf	3	5	WoodElf
+Clancy	14	18	Centaur	4	6	Dwarf	3	5	WoodElf
+Kyrre	14	18	Centaur	4	6	Dwarf	3	5	WoodElf
+Coronius	14	18	Centaur	4	6	Dwarf	3	5	WoodElf
+Uland	14	18	Centaur	4	6	Dwarf	3	5	WoodElf
+Elleshar	14	18	Centaur	4	6	Dwarf	3	5	WoodElf
+Gem	14	18	Centaur	1	1	FirstAidTent	3	5	WoodElf
+Malcom	14	18	Centaur	4	6	Dwarf	3	5	WoodElf
+Melodia	14	18	Centaur	4	6	Dwarf	3	5	WoodElf
+Alagar	14	18	Centaur	4	6	Dwarf	3	5	WoodElf
+Aeris	14	18	Centaur	4	6	Dwarf	3	5	WoodElf
+Piquedram	5	8	StoneGargoyle	4	7	StoneGargoyle	4	7	StoneGargoyle
+Thane	25	30	ApprenticeGremlin	4	7	StoneGargoyle	2	4	IronGolem
+Josephine	25	30	ApprenticeGremlin	2	4	IronGolem	2	4	IronGolem
+Neela	25	30	ApprenticeGremlin	4	7	StoneGargoyle	2	4	IronGolem
+Torosar 	25	30	ApprenticeGremlin	1	1	Ballista	2	4	IronGolem
+Fafner	25	30	ApprenticeGremlin	4	7	StoneGargoyle	2	4	IronGolem
+Rissa	25	30	ApprenticeGremlin	4	7	StoneGargoyle	2	4	IronGolem
+Iona	25	30	ApprenticeGremlin	4	7	StoneGargoyle	2	4	IronGolem
+Astral	25	30	ApprenticeGremlin	4	7	StoneGargoyle	2	4	IronGolem
+Halon	25	30	ApprenticeGremlin	4	7	StoneGargoyle	2	4	IronGolem
+Serena	25	30	ApprenticeGremlin	4	7	StoneGargoyle	2	4	IronGolem
+Daremyth	25	30	ApprenticeGremlin	4	7	StoneGargoyle	2	4	IronGolem
+Theodorus	25	30	ApprenticeGremlin	4	7	StoneGargoyle	2	4	IronGolem
+Solmyr	25	30	ApprenticeGremlin	4	7	StoneGargoyle	2	4	IronGolem
+Cyra	25	30	ApprenticeGremlin	4	7	StoneGargoyle	2	4	IronGolem
+Aine	25	30	ApprenticeGremlin	4	7	StoneGargoyle	2	4	IronGolem
+Fiona	22	26	Imp	3	4	HellHound	3	4	HellHound
+Rashka	22	26	Imp	4	7	Gog	3	4	HellHound
+Marius	22	26	Imp	4	7	Gog	3	4	HellHound
+Ignatius	22	26	Imp	17	21	Imp	17	21	Imp
+Octavia	22	26	Imp	4	7	Gog	3	4	HellHound
+Calh	5	8	Gog	4	7	Gog	4	7	Gog
+Pyre	22	26	Imp	1	1	Ballista	3	4	HellHound
+Nymus	22	26	Imp	4	7	Gog	3	4	HellHound
+Ayden	22	26	Imp	4	7	Gog	3	4	HellHound
+Xyron	22	26	Imp	4	7	Gog	3	4	HellHound
+Axsis	22	26	Imp	4	7	Gog	3	4	HellHound
+Olema	22	26	Imp	4	7	Gog	3	4	HellHound
+Calid	22	26	Imp	4	7	Gog	3	4	HellHound
+Ash	22	26	Imp	4	7	Gog	3	4	HellHound
+Zydar	22	26	Imp	4	7	Gog	3	4	HellHound
+Xarfax	22	26	Imp	4	7	Gog	3	4	HellHound
+Straker	5	7	Zombie	4	6	Zombie	4	6	Zombie
+Vokial	20	25	Skeleton	5	7	Zombie	4	6	Wight
+Moandor	20	25	Skeleton	5	7	Zombie	4	6	Wight
+Charna	20	25	Skeleton	4	6	Wight	4	6	Wight
+Tamika	20	25	Skeleton	5	7	Zombie	4	6	Wight
+Isra	20	25	Skeleton	5	7	Zombie	4	6	Wight
+Clavius	20	25	Skeleton	5	7	Zombie	4	6	Wight
+Galthran	20	25	Skeleton	15	20	Skeleton	15	20	Skeleton
+Septienna	20	25	Skeleton	5	7	Zombie	4	6	Wight
+Aislinn	20	25	Skeleton	5	7	Zombie	4	6	Wight
+Sandro	20	25	Skeleton	5	7	Zombie	4	6	Wight
+Nimbus	20	25	Skeleton	5	7	Zombie	4	6	Wight
+Thant	20	25	Skeleton	5	7	Zombie	4	6	Wight
+Xsi	20	25	Skeleton	5	7	Zombie	4	6	Wight
+Vidomina	20	25	Skeleton	5	7	Zombie	4	6	Wight
+Nagash	20	25	Skeleton	5	7	Zombie	4	6	Wight
+Lorelei	5	8	Harpy	4	7	Harpy	4	7	Harpy
+Arlach	20	25	Troglodyte	1	1	Ballista	3	4	Beholder
+Dace	20	25	Troglodyte	4	7	Harpy	3	4	Beholder
+Ajit	20	25	Troglodyte	3	4	Beholder	3	4	Beholder
+Damacon	20	25	Troglodyte	4	7	Harpy	3	4	Beholder
+Gunnar	20	25	Troglodyte	4	7	Harpy	3	4	Beholder
+Synca	20	25	Troglodyte	4	7	Harpy	3	4	Beholder
+Shakti	20	25	Troglodyte	15	20	Troglodyte	15	20	Troglodyte
+Alamar	20	25	Troglodyte	4	7	Harpy	3	4	Beholder
+Jaegar	20	25	Troglodyte	4	7	Harpy	3	4	Beholder
+Malekith	20	25	Troglodyte	4	7	Harpy	3	4	Beholder
+Jeddite	20	25	Troglodyte	4	7	Harpy	3	4	Beholder
+Geon	20	25	Troglodyte	4	7	Harpy	3	4	Beholder
+Deemer	20	25	Troglodyte	4	7	Harpy	3	4	Beholder
+Sephinroth	20	25	Troglodyte	4	7	Harpy	3	4	Beholder
+Darkstorm	20	25	Troglodyte	4	7	Harpy	3	4	Beholder
+Yog	20	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Gurnisson	20	25	Goblin	1	1	Ballista	4	6	Orc
+Jabarkas	20	25	Goblin	4	6	Orc	4	6	Orc
+Shiva	20	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Gretchin	20	25	Goblin	15	20	Goblin	15	20	Goblin
+Krellion	20	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Crag Hack	20	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Tyraxor	6	8	GoblinWolfRider	5	7	GoblinWolfRider	5	7	GoblinWolfRider
+Gird	20	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Vey	20	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Dessa	20	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Terek	20	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Zubin	20	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Gundula	20	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Oris	20	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Saurug	20	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+Bron	16	22	Gnoll	4	7	PrimitiveLizardman	3	4	SerpentFly
+Drakon	16	22	Gnoll	12	18	Gnoll	12	18	Gnoll
+Wystan	5	8	PrimitiveLizardman	4	7	PrimitiveLizardman	4	7	PrimitiveLizardman
+Tazar	16	22	Gnoll	4	7	PrimitiveLizardman	3	4	SerpentFly
+Alkin	16	22	Gnoll	4	7	PrimitiveLizardman	3	4	SerpentFly
+Korbac	16	22	Gnoll	2	4	SerpentFly	3	4	DragonFly
+Gerwulf	16	22	Gnoll	1	1	Ballista	3	4	SerpentFly
+Broghild	16	22	Gnoll	4	7	PrimitiveLizardman	3	4	SerpentFly
+Mirlanda	16	22	Gnoll	4	7	PrimitiveLizardman	3	4	SerpentFly
+Rosic	16	22	Gnoll	4	7	PrimitiveLizardman	3	4	SerpentFly
+Voy	16	22	Gnoll	4	7	PrimitiveLizardman	3	4	SerpentFly
+Verdish	16	22	Gnoll	1	1	FirstAidTent	3	4	SerpentFly
+Merist	16	22	Gnoll	4	7	PrimitiveLizardman	3	4	SerpentFly
+Styg	16	22	Gnoll	4	7	PrimitiveLizardman	3	4	SerpentFly
+Andra	16	22	Gnoll	4	7	PrimitiveLizardman	3	4	SerpentFly
+Tiva	16	22	Gnoll	4	7	PrimitiveLizardman	3	4	SerpentFly
+Pasis	15	25	Pixies	3	5	Air Elementals	2	3	Air Elementals
+Thunar	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Ignissa	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Lacus	15	25	Pixies	3	5	Water Elementals	1	2	Water Elementals
+Monere	15	25	Pixies	3	5	Air Elementals	2	3	Air Elementals
+Erdamon	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Fiur	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Kalt	15	25	Pixies	3	5	Water Elementals	1	2	Water Elementals
+Luna	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Brissa	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Ciele	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Labetha	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Inteus	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Aenain	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Gelare	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Grindan	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+Sir Mullich	13	17	Pikeman	4	7	Archer	3	4	Griffin
+Adrienne	16	22	Gnoll	4	7	Lizardman	3	4	Serpent Fly
+Catherine	13	17	Pikeman	4	7	Archer	3	4	Griffin
+Dracon	6	6	Enchanters	3	3	Enchanters	1	1	Enchanters
+Gelu	6	6	Sharpshooters	3	3	Sharpshooters	1	1	Sharpshooters
+Kilgor	10	25	Goblins	5	7	Goblin Wolf Rider	4	6	Orc
+Lord Haart	20	30	Skeleton	5	7	Zombie	4	6	Wight
+Mutare	20	26	Troglodyte	4	7	Harpy	3	4	Beholder
+Roland	13	17	Pikeman	4	7	Archer	3	4	Griffin
+Mutare Drake	10	20	Pikeman	4	7	Archer	3	4	Griffin
+Boragus	13	17	Pikeman	4	7	Archer	3	4	Griffin
+Xeron	13	17	Pikeman	4	7	Archer	3	4	Griffin
