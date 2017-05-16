@@ -189,8 +189,7 @@ Raised power of Hypnotize from 25 to 50
 Raised Hypnotize Advanced bonus from 20 to 50, expert from 50 to 90 
 Raised power of Firewall from 10 to 15. 
 Town Portal is now a Earth & Fire spell, instead of just Earth 
-Raised chance of success of Magic Mirror by 20% for all non-expert expertise levels.
-Raised chance of success of Magic Mirror expert bonus to 100%. 
+Raised chance of success of Magic Mirror to 40/40/70/100.
 
 HEROES 
 Druids now start with 0/1/2/2 instead of 0/2/1/2 
@@ -250,7 +249,7 @@ PROBABILITIES
 Changed a few primary skill probabilities, ignoring Conflux heroes 
 Changed a LOT of secondary skills probabilities, ignoring Conflux heroes (Reduce Eagle Eye probability.)
 
-- Increased Inferno's Fire Magic probability, removed other magic probabilities, Diplomacy and First Aid Skills.
+- Increased Inferno's Fire Magic probability, removed other magic probabilities, lowered Diplomacy and First Aid Skills.
 
 Re-organized spell appearance in towns, ignoring Conflux. 
 Magic Specializations: Inferno = Fire
@@ -265,7 +264,7 @@ Magic Specializations: Inferno = Fire
 4th: Inferno, Berserk
 5th: Armageddon
 
-- Increased Necropolis' Earth Magic probability, removed other magic probabilities and Diplomacy, added First Aid probability.
+- Increased Necropolis' Earth Magic probability, removed other magic probabilities, lowered Diplomacy, added First Aid probability.
 
 Magic Specializations: Necropolis = Earth
 
@@ -277,6 +276,18 @@ Magic Specializations: Necropolis = Earth
 2nd: Death Ripple, Ice Bolt, Quicksand, Weakness
 3rd: Animate Dead, Earthquake, Sorrow
 4th: Town Portal, Meteor Shower
+5th: Implosion
+
+- Increased Dungeon's Earth Magic probability, removed other magic probabilities.
+
+Magic Specializations: Dungeon = Earth
+
+- All Protection Spells set to lvl 1 and 5/4/4/8
+- Set Dungeon's Mage Guild spells to:
+1st: Magic Arrow, Slow, View Earth, Stone Skin, Protection from Earth
+2nd: Quicksand, Lightning Bolt, Remove Obstacle, Disrupting Ray
+3rd: Earthquake, Anti-Magic, Force Field
+4th: Meteor Shower, Resurrection
 5th: Implosion
 
 Conflux heroes (and only them) will only be available to Conflux players
