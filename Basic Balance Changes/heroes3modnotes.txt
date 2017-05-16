@@ -250,19 +250,34 @@ PROBABILITIES
 Changed a few primary skill probabilities, ignoring Conflux heroes 
 Changed a LOT of secondary skills probabilities, ignoring Conflux heroes (Reduce Eagle Eye probability.)
 
-- Increased Inferno's Fire Magic Probability, removed other magic probabilities and First Aid Skills.
+- Increased Inferno's Fire Magic probability, removed other magic probabilities, Diplomacy and First Aid Skills.
 
 Re-organized spell appearance in towns, ignoring Conflux. 
-Magic Specializations: Inferno = Fire,
+Magic Specializations: Inferno = Fire
 
 - Fire Shield lowered to lvl 3 from lvl 4
 - Armageddon raised from lvl 4 to lvl 5
-- Set Inferno's Mage guild spells to: 
+- Protection from Fire cost changed from 5/4/4/4 to 5/4/4/8
+- Set Inferno's Mage Guild spells to: 
 1st: Magic Arrow, Bloodlust, Curse, Protection from Fire, Haste
 2nd: Blind, Fire Wall, Disrupting Ray, Lightning Bolt
 3rd: Fireball, Land Mine, Fire Shield
 4th: Inferno, Berserk
 5th: Armageddon
+
+- Increased Necropolis' Earth Magic probability, removed other magic probabilities and Diplomacy, added First Aid probability.
+
+Magic Specializations: Necropolis = Earth
+
+- Protection from Earth lowered to lvl 1 from lvl 3
+- Protection from Earth cost changed from 12/7/7/7 to 5/4/4/8
+- Sorrow lowered to lvl 3 from lvl 4
+- Set Necropolis' Mage Guild spells to:
+1st: Magic Arrow, Slow, View Earth, Protection From earth, Cure
+2nd: Death Ripple, Ice Bolt, Quicksand, Weakness
+3rd: Animate Dead, Earthquake, Sorrow
+4th: Town Portal, Meteor Shower
+5th: Implosion
 
 Conflux heroes (and only them) will only be available to Conflux players
 
