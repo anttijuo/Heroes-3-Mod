@@ -189,7 +189,7 @@ Raised power of Hypnotize from 25 to 50
 Raised Hypnotize Advanced bonus from 20 to 50, expert from 50 to 90 
 Raised power of Firewall from 10 to 15. 
 Town Portal is now a Earth & Fire spell, instead of just Earth 
-Raised chance of success of Magic Mirror to 40/40/70/100.
+Raised chance of success of Magic Mirror to 50/50/70/100.
 
 HEROES 
 Druids now start with 0/1/2/2 instead of 0/2/1/2 
@@ -272,7 +272,7 @@ Magic Specializations: Necropolis = Earth
 - Protection from Earth cost changed from 12/7/7/7 to 5/4/4/8
 - Sorrow lowered to lvl 3 from lvl 4
 - Set Necropolis' Mage Guild spells to:
-1st: Magic Arrow, Slow, View Earth, Protection From earth, Cure
+1st: Magic Arrow, Slow, View Earth, Protection From earth, Dispel
 2nd: Death Ripple, Ice Bolt, Quicksand, Weakness
 3rd: Animate Dead, Earthquake, Sorrow
 4th: Town Portal, Meteor Shower
@@ -296,10 +296,23 @@ Magic Specializations: Castle = Water
 
 - Set Resurrection to both Earth and Water type
 - Set Castle's Mage Guild spells to:
-1st: Magic Arrow, View Air, Protection from Water, Cure, Bless
-2nd: Frost Bolt, Precision, Weakness, Fortune
+1st: Magic Arrow, View Air, Protection from Water, Summon Boat, Bless
+2nd: Frost Bolt, Precision, Scuttle Boat, Fortune
 3rd: Frost Ring, Mirth, Forgetfulness
 4th: Resurrection, Prayer
+
+Increased Rampart's Water Magic Probability, removed other magic probabilities.
+
+Magic Specialization: Rampart = Water
+
+- Set Magic Mirror to both Air and Water type
+- Set Rampart's Mage Guild spells to:
+1st: Magic Arrow, Cure, Dispel, Protection from Water, Haste
+2nd: Weakness, Frost Bolt, Remove Obstacle, Fortune
+3rd: Frost Ring, Forgetfulness, Teleport
+4th: Clone, Water Walk
+5th: Magic Mirror
+
 
 (Slight Diplomacy bug)
 
