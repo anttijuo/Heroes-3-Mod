@@ -290,6 +290,19 @@ Magic Specializations: Dungeon = Earth
 4th: Meteor Shower, Resurrection
 5th: Implosion
 
+Increased Castle's Water Magic Probability, removed other magic probabilities.
+
+Magic Specializations: Castle = Water
+
+- Set Resurrection to both Earth and Water type
+- Set Castle's Mage Guild spells to:
+1st: Magic Arrow, View Air, Protection from Water, Cure, Bless
+2nd: Frost Bolt, Precision, Weakness, Fortune
+3rd: Frost Ring, Mirth, Forgetfulness
+4th: Resurrection, Prayer
+
+(Slight Diplomacy bug)
+
 Conflux heroes (and only them) will only be available to Conflux players
 
 (fortress is the 6th)
