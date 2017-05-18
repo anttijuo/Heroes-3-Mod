@@ -343,7 +343,14 @@ Magic Specialization: Tower = Air
 4th: Chain Lightning, Counterstrike, Clone
 5th: Dimension Door, Fly
 
-(Slight Diplomacy reset TODO)
+Magic Specialization: Conflux = All
+
+- Set Conflux's Mage Guild spells to:
+1st: Magic Arrow, Haste, Slow, Curse, Dispel
+2nd: Lightning Bolt, Ice Bolt, Fire Wall, Quicksand
+3rd: Fireball, Frost Ring, Earthquake
+4th: Meteor Shower, Chain Lightning
+5th: Summon Earth/Air/Water/Fire Elemental (Equal chance for each)
 
 Conflux heroes (and only them) will only be available to Conflux players
 
