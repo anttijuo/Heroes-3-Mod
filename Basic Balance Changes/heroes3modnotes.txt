@@ -262,7 +262,7 @@ Magic Specializations: Inferno = Fire
 2nd: Blind, Fire Wall, Disrupting Ray, Lightning Bolt
 3rd: Fireball, Land Mine, Fire Shield
 4th: Inferno, Berserk
-5th: Armageddon
+5th: Sacrifice
 
 - Increased Necropolis' Earth Magic probability, removed other magic probabilities, lowered Diplomacy, added First Aid probability.
 
@@ -331,6 +331,17 @@ Magic Specialization: Fortress = Earth
 1st: Magic Arrow, Protection from Earth, Slow, Stone Skin, View Earth
 2nd: Ice Bolt, Scuttle Boat, Quicksand, Weakness
 3rd: Force Field, Anti-Magic, Earthquake
+
+Increased Tower's Air Magic Probability, removed other magic probabilities.
+
+Magic Specialization: Tower = Air
+
+- Set Tower's Mage Guild spells to:
+1st: Magic Arrow, View Air, Haste, Protection from Air, Dispel, Summon Boat
+2nd: Lightning Bolt, Ice Bolt, Remove Obstacle, Weakness, Disrupting Ray
+3rd: Hypnotize, Air Shield, Teleport, Frost Ring
+4th: Chain Lightning, Counterstrike, Clone
+5th: Dimension Door, Fly
 
 (Slight Diplomacy reset TODO)
 
