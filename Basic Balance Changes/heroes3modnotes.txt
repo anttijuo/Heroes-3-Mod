@@ -313,6 +313,15 @@ Magic Specialization: Rampart = Water
 4th: Clone, Water Walk
 5th: Magic Mirror
 
+Increased Stronghold's Air Magic Probability, removed other magic probabilities.
+
+Magic Specialization: Stronghold = Air
+
+- Lower Frenzy and Slayer from Lvl 4 to Lvl 3
+- Set Stronghold's Mage Guild spells to:
+1st: Magic Arrow, Protection from Air, Haste, Bloodlust, View Air
+2nd: Lightning Bolt, Fortune, Precision, Disrupting Ray
+3rd: Frenzy, Slayer, Air Shield
 
 (Slight Diplomacy bug)
 
