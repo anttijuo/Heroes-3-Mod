@@ -323,7 +323,16 @@ Magic Specialization: Stronghold = Air
 2nd: Lightning Bolt, Fortune, Precision, Disrupting Ray
 3rd: Frenzy, Slayer, Air Shield
 
-(Slight Diplomacy bug)
+Increased Fortress' Earth Magic Probability, removed other magic probabilities.
+
+Magic Specialization: Fortress = Earth
+
+- Set Fortress' Mage Guild spells to:
+1st: Magic Arrow, Protection from Earth, Slow, Stone Skin, View Earth
+2nd: Ice Bolt, Scuttle Boat, Quicksand, Weakness
+3rd: Force Field, Anti-Magic, Earthquake
+
+(Slight Diplomacy reset TODO)
 
 Conflux heroes (and only them) will only be available to Conflux players
 
